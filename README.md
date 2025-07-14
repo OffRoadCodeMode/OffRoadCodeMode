@@ -11,13 +11,13 @@ Senior software engineer & indie hacker with an unquenchable thirst for learning
 
 ## 💪 Core Languages / Tech Stacks
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6/white" alt="TypeScript" width="40"/> TypeScript  
+<img src="https://cdn.simpleicons.org/typescript/3178C6/white" alt="TypeScript" width="40"/>
 
-<img src="https://cdn.simpleicons.org/php/777BB4/white" alt="PHP" width="40"/> PHP  
+<img src="https://cdn.simpleicons.org/php/777BB4/white" alt="PHP" width="40"/>
 
-<img src="https://cdn.simpleicons.org/python/3776AB/white" alt="Python" width="40"/> Python  
+<img src="https://cdn.simpleicons.org/python/3776AB/white" alt="Python" width="40"/>
 
-
+- TypeScript/PHP/Python
 - React / NextJS
 - NodeJS / Express / Hono etc..
 - Python / Flask
@@ -29,10 +29,28 @@ Senior software engineer & indie hacker with an unquenchable thirst for learning
 
 You can view my website [here](https://nomad-code.dev), and LinkedIn [here](https://www.linkedin.com/in/nomad-joe/)
 
-## 🛠️ Currently Working On
+## 🛠️ Activley Working On
 
 - AI powered feed/content-aggregator startup due to launch beta this year (more info soon..)
 - Pull-and-go IaC starter kits for AWS CDK and Terraform
 - A Shopify marketplace app
 
-## Featured projects
+## 🛠️ Tinkering with
+- Game development in Unity (C#) and Unreal (C++).
+- Android development with Kotlin
+- AI/LLM Engineering, RAG pipelines and agentic microservices etc.. (recently completed an LLM engineering course)
+- Pentesting and bug bounties. Hack the box / THM / various CTFs. Enjoying diving deeper into cyber security in general.
+
+## 🧑‍🎓 Studying for
+- AWS Certified Developer DVAC02
+- Offsec's OSCP
+
+## ⭐ Featured projects
+
+### Rocket Boost
+This was a fun little side project I made in C# using the Unity game engine. It was the result of a course I did on Unity I thoroughly enjoy the new challenges that game development is brining.
+
+You can play it here (keyboard required): [https://offroadcodemode.github.io/unity_rocket_boost/](https://offroadcodemode.github.io/unity_rocket_boost/)
+
+### More to come
+.. more to come this is a fresh GitHub account
