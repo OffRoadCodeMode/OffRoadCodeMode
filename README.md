@@ -2,7 +2,8 @@
 
 ### Full-Stack Developer & DevOps Engineer | Nomad Coder | Game Dev Hobbyist  
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnomad-code.dev&style=flat-square)](https://nomad-code.dev)
-[![LinkedIn]([https://img.shields.io/website?url=https%3A%2F%2Fnomad-code.dev&style=flat-square](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin))]([https://nomad-code.dev](https://www.linkedin.com/in/nomad-joe/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nomad-joe/)
+
 
 Senior software engineer & indie hacker with an unquenchable thirst for learning. I'm either coding for a client, coding for a hobby, learning a new technology, or driving my van. Rapidly approaching two decades of web development and a lifetime of nerd culture.
 
