@@ -34,8 +34,8 @@ You can view my website [here](https://nomad-code.dev), and LinkedIn [here](http
 ## 🛠️ Tinkering with
 - Game development in Unity (C#) and Unreal (C++).
 - Android development with Kotlin
-- AI/LLM Engineering, RAG pipelines and agentic microservices etc.. (recently completed an LLM engineering course)
-- Pentesting and bug bounties. Hack the box / THM / various CTFs. Enjoying diving deeper into cyber security in general.
+- AI/LLM Engineering, RAG pipelines and agentic microservices etc.. (recently completed an LLM engineering course).
+- Pentesting and bug bounties. Hack The Box / THM / various CTFs. Enjoying diving deeper into cyber security in general.
 
 ## 🧑‍🎓 Studying for
 - AWS Certified Developer DVAC02
@@ -44,7 +44,7 @@ You can view my website [here](https://nomad-code.dev), and LinkedIn [here](http
 ## ⭐ Featured projects
 
 ### Rocket Boost
-This was a fun little side project I made in C# using the Unity game engine. It was the result of a course I did on Unity I thoroughly enjoy the new challenges that game development is brining.
+Fun little side project made in C# using the Unity game engine.
 
 You can play it here (keyboard required): [https://offroadcodemode.github.io/unity_rocket_boost/](https://offroadcodemode.github.io/unity_rocket_boost/)
 
