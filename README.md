@@ -43,10 +43,11 @@ You can view my website [here](https://nomad-code.dev), and LinkedIn [here](http
 
 ## ⭐ Featured projects
 
-### Rocket Boost
-Fun little side project made in C# using the Unity game engine.
-
-You can play it here (keyboard required): [https://offroadcodemode.github.io/unity_rocket_boost/](https://offroadcodemode.github.io/unity_rocket_boost/)
+### 🚀 Rocket Boost
+Fun little side project made in C# using the Unity game engine.  
+Repo: [Rocket Boost](https://github.com/OffRoadCodeMode/unity_rocket_boost)  
+You can play it here: [https://offroadcodemode.github.io/unity_rocket_boost/](https://offroadcodemode.github.io/unity_rocket_boost/) (keyboard required)
+![Screenshot 1](https://github.com/OffRoadCodeMode/unity_rocket_boost/blob/main/screenshots/rocket_boost_2-min.png)
 
 ### More to come
 .. more to come this is a fresh GitHub account
