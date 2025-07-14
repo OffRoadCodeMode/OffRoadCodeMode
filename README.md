@@ -11,7 +11,7 @@ Senior software engineer & indie hacker with an unquenchable thirst for learning
 
 ## 💪 Core Languages / Tech Stacks
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6/white" alt="TypeScript" width="40"/><img src="https://cdn.simpleicons.org/php/777BB4/white" alt="PHP" width="40"/><img src="https://cdn.simpleicons.org/python/3776AB/white" alt="Python" width="40"/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6/white" alt="TypeScript" width="40"/> <img src="https://cdn.simpleicons.org/php/777BB4/white" alt="PHP" width="40"/> <img src="https://cdn.simpleicons.org/python/3776AB/white" alt="Python" width="40"/>
 
 - TypeScript/PHP/Python
 - React / NextJS
