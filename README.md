@@ -20,7 +20,7 @@ Senior software engineer & indie hacker with an unquenchable thirst for learning
 - PHP / Laravel
 - MySQL/PostgreSQL/MongoDB/DynamoDB
 - AWS services (Lambda, EC2, ECS, API Gateway, EventBridge, Step Functions, CodePipeline, CodeDeploy, Much more..)
-- Terraform
+- AWS CDK / Terraform
 - Testing / TDD - JEST, PHPUnit, PEST, Mocha, PyTest etc..
 
 You can view my website [here](https://nomad-code.dev), and LinkedIn [here](https://www.linkedin.com/in/nomad-joe/)
