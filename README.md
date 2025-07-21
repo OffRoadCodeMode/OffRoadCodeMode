@@ -16,7 +16,7 @@ Senior software engineer & indie hacker with an unquenchable thirst for learning
 - TypeScript/PHP/Python
 - React / NextJS
 - NodeJS / Express / Hono etc..
-- Python / Flask
+- Python / Flask / Fast API
 - PHP / Laravel
 - MySQL/PostgreSQL/MongoDB/DynamoDB
 - AWS services (Lambda, EC2, ECS, API Gateway, EventBridge, Step Functions, CodePipeline, CodeDeploy, Much more..)
