@@ -43,6 +43,10 @@ You can view my website [here](https://nomad-code.dev), and LinkedIn [here](http
 
 ## ⭐ Featured projects
 
+### Nomad Scraper
+A sophisticated domain-driven web scraping application built with Domain-Driven Design (DDD) principles, featuring a command/event architecture with pluggable scraper and storage implementations. Comes ready packed with cloud native setup via AWS CDK.  
+Repo: [Nomad Scraper](https://github.com/OffRoadCodeMode/nomad_scraper)
+
 ### 🚀 Rocket Boost
 Fun little side project made in C# using the Unity game engine.  
 Repo: [Rocket Boost](https://github.com/OffRoadCodeMode/unity_rocket_boost)  
