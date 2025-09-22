@@ -4,7 +4,6 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnomad-code.dev&style=flat-square)](https://nomad-code.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nomad-joe/)
 
-
 Senior software engineer & indie hacker with an unquenchable thirst for learning. I'm either coding for a client, coding for a hobby, learning a new technology, or driving my van. Rapidly approaching two decades of web development and a lifetime of nerd culture.
 
 ---
@@ -37,14 +36,16 @@ You can view my website [here](https://nomad-code.dev), and LinkedIn [here](http
 - AI/LLM Engineering, RAG pipelines and agentic microservices etc.. (recently completed an LLM engineering course).
 - Pentesting and bug bounties. Hack The Box / THM / various CTFs. Enjoying diving deeper into cyber security in general.
 
-## 🧑‍🎓 Studying for
-- AWS Certified Developer DVAC02
-- Offsec's OSCP
-
 ## ⭐ Featured projects
 
+### Driven Micro Domain (starter kit)
+A complete working implementation and starter template for building domain-driven microservices using my [Driven Micro Framework](https://github.com/OffRoadCodeMode/driven-micro-framework). I created this TypeScript starter kit and the underlying Driven Micro Framework after repeatedly rewriting my preffered architectural patterns for each new microservice. See below for more information on the underlying framework.
+
+### Driven Micro Framework
+A production-ready TypeScript framework for building domain-driven microservices implementing a custom architecture with internal message bus, event/command flow and exposure of many useful interfaces for use in concrete implementations of the framework. The architecture is heavily influenced by patterns presented in this book [Architecture Patterns with Python](https://www.amazon.co.uk/Enterprise-Architecture-Patterns-Python-Adapters/dp/1492052205). I highly recommend reading it in order to truly understand what this framework is doing.
+
 ### Nomad Scraper
-A sophisticated domain-driven web scraping application built with Domain-Driven Design (DDD) principles, featuring a command/event architecture with pluggable scraper and storage implementations. Comes ready packed with cloud native setup via AWS CDK.  
+A web scraping application built with Domain-Driven Design (DDD) principles, featuring a command/event architecture with pluggable scraper and storage implementations. Comes ready packed with cloud native setup via AWS CDK.  
 Repo: [Nomad Scraper](https://github.com/OffRoadCodeMode/nomad_scraper)
 
 ### 🚀 Rocket Boost
@@ -52,7 +53,3 @@ Fun little side project made in C# using the Unity game engine.
 Repo: [Rocket Boost](https://github.com/OffRoadCodeMode/unity_rocket_boost)  
 You can play it here: [https://offroadcodemode.github.io/unity_rocket_boost/](https://offroadcodemode.github.io/unity_rocket_boost/) (keyboard required)  
 
-![Screenshot 1](https://github.com/OffRoadCodeMode/unity_rocket_boost/blob/main/screenshots/rocket_boost_2-min.png)
-
-### More to come
-.. more to come this is a fresh GitHub account
