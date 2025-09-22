@@ -44,11 +44,10 @@ A complete working implementation and starter template for building domain-drive
 ### [Driven Micro Framework](https://github.com/OffRoadCodeMode/driven-micro-framework)
 A production-ready TypeScript framework for building domain-driven microservices implementing a custom architecture with internal message bus, event/command flow and exposure of many useful interfaces for use in concrete implementations of the framework. The architecture is heavily influenced by patterns presented in this book [Architecture Patterns with Python](https://www.amazon.co.uk/Enterprise-Architecture-Patterns-Python-Adapters/dp/1492052205). I highly recommend reading it in order to truly understand what this framework is doing.
 
-### Nomad Scraper
+### [Nomad Scraper](https://github.com/OffRoadCodeMode/nomad_scraper)
 A web scraping application built with Domain-Driven Design (DDD) principles, featuring a command/event architecture with pluggable scraper and storage implementations. Comes ready packed with cloud native setup via AWS CDK.  
-Repo: [Nomad Scraper](https://github.com/OffRoadCodeMode/nomad_scraper)
 
-### 🚀 Rocket Boost
+### [Rocket Boost](https://github.com/OffRoadCodeMode/unity_rocket_boost)
 Fun little side project made in C# using the Unity game engine.  
 Repo: [Rocket Boost](https://github.com/OffRoadCodeMode/unity_rocket_boost)  
 You can play it here: [https://offroadcodemode.github.io/unity_rocket_boost/](https://offroadcodemode.github.io/unity_rocket_boost/) (keyboard required)  
