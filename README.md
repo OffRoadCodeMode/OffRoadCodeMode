@@ -38,10 +38,10 @@ You can view my website [here](https://nomad-code.dev), and LinkedIn [here](http
 
 ## ⭐ Featured projects
 
-### Driven Micro Domain (starter kit)
+### [Driven Micro Domain](https://github.com/OffRoadCodeMode/driven-micro-domain) (starter kit) 
 A complete working implementation and starter template for building domain-driven microservices using my [Driven Micro Framework](https://github.com/OffRoadCodeMode/driven-micro-framework). I created this TypeScript starter kit and the underlying Driven Micro Framework after repeatedly rewriting my preffered architectural patterns for each new microservice. See below for more information on the underlying framework.
 
-### Driven Micro Framework
+### [Driven Micro Framework](https://github.com/OffRoadCodeMode/driven-micro-framework)
 A production-ready TypeScript framework for building domain-driven microservices implementing a custom architecture with internal message bus, event/command flow and exposure of many useful interfaces for use in concrete implementations of the framework. The architecture is heavily influenced by patterns presented in this book [Architecture Patterns with Python](https://www.amazon.co.uk/Enterprise-Architecture-Patterns-Python-Adapters/dp/1492052205). I highly recommend reading it in order to truly understand what this framework is doing.
 
 ### Nomad Scraper
