@@ -1,6 +1,6 @@
 ## Hi, I'm Joe
 
-### Full-Stack Developer & DevOps Engineer | Nomad Coder | Game Dev Hobbyist  
+### Full-Stack Developer | Game Dev Hobbyist | Indie Hacker
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnomad-code.dev&style=flat-square)](https://nomad-code.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nomad-joe/)
 
